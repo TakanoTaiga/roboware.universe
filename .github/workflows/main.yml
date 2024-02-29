@@ -11,4 +11,4 @@ jobs:
     - name: Checking out
       uses: actions/checkout@v3
     - name: Building
-      uses: roboware-org/roboware-ci@v2
+      uses: roboware-org/roboware-ci@v3
